@@ -3,14 +3,11 @@ import React from 'react';
 import './App.css';
 
 const urls1 = [
+  'https://fikiwiki.com/uploads/posts/2022-02/1644855666_23-fikiwiki-com-p-kartinki-khd-kachestva-24.jpg',
   'https://www.esato.com/phonephotos/cam/samsung/sm_g900f/201406011711P0ER52.jpg',
   'https://nature.baikal.ru/phs/norm/84/84110.jpg',
   'https://prades.net/canada2004/493T1806.jpg',
-
   'https://i.pinimg.com/originals/55/49/0e/55490ee730c90b567d4d40bad287b6ca.jpg',
-  'http://st.gde-fon.com/wallpapers_original/425001_vysokogornyj-otel_reka_pejzazh_priroda_1680x1050_www.Gde-Fon.com.jpg',
-
-
   'https://i.redd.it/v05doii2jwp31.jpg',
   'http://thereminder.ru/wp-content/uploads/2020/07/grand-canyon-crimea.jpg',
   'https://i.artfile.me/wallpaper/11-06-2013/4000x2667/priroda-reki-ozera-spirit-island-730985.jpg',
